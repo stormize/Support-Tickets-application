@@ -6,7 +6,8 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
   { path: '', component:TicketListingComponent},
-  {path : 'ticket/:id' , component:EditTicketComponent}
+  {path : 'ticket' , component:EditTicketComponent}
+
 
 ];
 

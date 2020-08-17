@@ -8,7 +8,7 @@ import { FooterComponent } from './core/footer/footer.component';
 import { TicketComponent } from './features/ticket/ticket.component';
 import { TicketListingComponent } from './features/ticket-listing/ticket-listing.component';
 import { EditTicketComponent } from './features/edit-ticket/edit-ticket.component';
-
+import {FormsModule ,ReactiveFormsModule  } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,7 +21,9 @@ import { EditTicketComponent } from './features/edit-ticket/edit-ticket.componen
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
