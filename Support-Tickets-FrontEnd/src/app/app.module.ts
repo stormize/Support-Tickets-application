@@ -9,6 +9,8 @@ import { TicketComponent } from './features/ticket/ticket.component';
 import { TicketListingComponent } from './features/ticket-listing/ticket-listing.component';
 import { EditTicketComponent } from './features/edit-ticket/edit-ticket.component';
 import {FormsModule ,ReactiveFormsModule  } from '@angular/forms';
+import { AuditLogComponent } from './features/audit-log/audit-log.component';
+import { AuditLogListingComponent } from './features/audit-log-listing/audit-log-listing.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +18,9 @@ import {FormsModule ,ReactiveFormsModule  } from '@angular/forms';
     FooterComponent,
     TicketComponent,
     TicketListingComponent,
-    EditTicketComponent
+    EditTicketComponent,
+    AuditLogComponent,
+    AuditLogListingComponent
   ],
   imports: [
     BrowserModule,
