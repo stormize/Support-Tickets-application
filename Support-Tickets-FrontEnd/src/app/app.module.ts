@@ -7,6 +7,7 @@ import { NavBarComponent } from './core/nav-bar/nav-bar.component';
 import { FooterComponent } from './core/footer/footer.component';
 import { TicketComponent } from './features/ticket/ticket.component';
 import { TicketListingComponent } from './features/ticket-listing/ticket-listing.component';
+import { EditTicketComponent } from './features/edit-ticket/edit-ticket.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { TicketListingComponent } from './features/ticket-listing/ticket-listing
     NavBarComponent,
     FooterComponent,
     TicketComponent,
-    TicketListingComponent
+    TicketListingComponent,
+    EditTicketComponent
   ],
   imports: [
     BrowserModule,

@@ -1,11 +1,11 @@
 <div class="card" style="width: 18rem;">
     <div class="card-body">
       <h5 class="card-title">{{data.name}}</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p class="card-text">{{data.content}}</p>
     </div>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Status : </li>
-      <li class="list-group-item">status changes date:</li>
+      <li class="list-group-item">Status :{{data.status}} </li>
+      <li class="list-group-item">status changes date:{{data.lastStatusChange}}</li>
       <li class="list-group-item">User assigned : </li>
     </ul>
     <div class="card-body">
