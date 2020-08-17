@@ -1,0 +1,15 @@
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.deps.json
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.csprojAssemblyReference.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.AssemblyInfoInputs.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.AssemblyInfo.cs
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Entities.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Entities.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.csproj.CopyComplete
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.runtimeconfig.json
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.runtimeconfig.dev.json
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.genruntimeconfig.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Context\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.csproj.CoreCompileInputs.cache

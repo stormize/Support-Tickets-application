@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DilenyTeck.Ticket.Context\DilenyTeck.Ticket.Context.csproj" />
+    <ProjectReference Include="..\DilenyTeck.Ticket.Repository\DilenyTeck.Ticket.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

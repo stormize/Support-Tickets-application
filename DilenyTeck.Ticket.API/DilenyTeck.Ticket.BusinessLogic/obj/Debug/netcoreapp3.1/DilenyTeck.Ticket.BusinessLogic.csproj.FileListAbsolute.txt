@@ -1,0 +1,16 @@
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.deps.json
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.AssemblyInfo.cs
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Entities.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Context.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Entities.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.BusinessLogic\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.BusinessLogic.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.deps.json
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.csprojAssemblyReference.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.AssemblyInfoInputs.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.AssemblyInfo.cs
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\bin\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.pdb
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.csproj.CoreCompileInputs.cache
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.dll
+C:\Users\IT Shop\source\repos\DilenyTeck.Ticket.API\DilenyTeck.Ticket.Repository\obj\Debug\netcoreapp3.1\DilenyTeck.Ticket.Repository.pdb
