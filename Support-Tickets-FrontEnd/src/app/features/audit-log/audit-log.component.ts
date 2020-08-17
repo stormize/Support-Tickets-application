@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-audit-log',
@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./audit-log.component.scss']
 })
 export class AuditLogComponent implements OnInit {
-
+@Input() data;
   constructor() { }
 
   ngOnInit(): void {
